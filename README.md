@@ -1,6 +1,6 @@
 # product_detail_clarifier
 
-1. Ladda ner zip-filen och öppna den.
+1. Ladda ner zip-filen och extrahera den (Om du öppnar zippen direkt utan att extrahera kommer det inte fungera).
 2. Öppna därefter index.html med chrome.
 3. Kopiera all information som du finner under produktdetaljer i ONE och klistra in i rutan.
 ![alt text](Skärmbild.png)
