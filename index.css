@@ -1,0 +1,110 @@
+
+
+body {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+
+#main_center {
+    padding-top: 20px;
+    width: 70%;
+    height: 100%;
+    font-size: 15px;
+    font-family: "courier new", monospace;
+
+}
+
+
+.block {
+    width: 100%;
+    display: flex;
+}
+
+.b1 {
+    height: 100px;
+}
+
+.b2 {
+    height: 25px;
+}
+
+
+#input_data {
+    resize: none;
+    font-size: 15px;
+    flex: 1;
+
+}
+
+#input_product {
+    resize: none;
+    font-size: 10px;
+    flex: 1;
+
+}
+
+.button_area {
+    width: 13%;
+    position: relative;
+}
+
+.btn_add {
+    position: absolute;
+    margin-left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    background-color: #04AA6D;
+    padding: 5px;
+    cursor: pointer;
+    text-align: center;
+    font-family: "courier new", monospace;
+    font-weight: bold;
+}
+
+#names_container {
+    display: flex;
+    font-weight: bold;
+    font-family: "courier new", monospace;
+    text-decoration: underline;
+}
+
+#rad {
+    display: flex;
+    font-family: "courier new", monospace;
+    background: limegreen;
+}
+
+#rad2 {
+    display: flex;
+    font-family: "courier new", monospace;
+    background: lightcoral;
+    opacity: 50%;
+}
+
+#rad3 {
+    display: flex;
+    font-family: "courier new", monospace;
+    background: #c8fdc1;
+}
+
+p {
+    padding: 5px;
+    flex: 1;
+    overflow: hidden;
+    white-space: nowrap; /* Don't forget this one */
+    text-overflow: ellipsis;
+}
+
+#print_amount {
+    display: flex;
+    text-align: right;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 16px;
+}
