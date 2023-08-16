@@ -3,8 +3,9 @@
 1. Ladda ner zip-filen och öppna den.
 2. Öppna därefter index.html med chrome.
 3. Kopiera all information som du finner under produktdetaljer i ONE och klistra in i rutan.
-4. Klicka på ADD
-5. Totala månadskostnaden visas längst ner.
+![alt text](Skärmbild.png)
+5. Klicka på ADD
+6. Totala månadskostnaden visas längst ner.
    
     <sub>Grön: Aktiv produkt med månadskostnad</sub>
     
